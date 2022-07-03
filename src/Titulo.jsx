@@ -1,9 +1,9 @@
 import "./Titulo.css";
 
-function Titulo({cabecalho}){
+function Titulo({titulo}){
 	
 	return( 
-        <h5 className="titulo">{cabecalho}</h5>	
+        <h3 className="titulo">{titulo}</h3>	
 	);
 }
 
