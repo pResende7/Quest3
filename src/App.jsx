@@ -3,9 +3,9 @@ import Container from "./Container";
 
 function App(){
 
-	const cabecalho = [
+	const titulo = [
 		{
-			Titulo: "Mais Lidas",
+			titulo: "Mais Lidas",
 		},
 	];
 
@@ -35,9 +35,9 @@ function App(){
 	return(
 		<div>
 			{
-				cabecalho.map((cons) => {
+				titulo.map((cons) => {
 					return <Titulo 
-							titulo={cons.cabecalho}
+							titulo={cons.titulo}
 						/>;
 				})
 			}
