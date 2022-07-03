@@ -1,6 +1,6 @@
 .base{
-    margin-left: 30px;
-    width: 280px;
+    margin-left: 25px;
+    width: 250px;
     padding: 3px;
     display: flex;
     border-top: 1px solid rgb(126, 126, 126);;
@@ -12,7 +12,7 @@
 
  .numero{
      font-family: 'Arial Narrow';
-     margin-top: 45px;
+     margin-top: 40px;
      color: rgb(126, 126, 126);
  }
 
