@@ -1,0 +1,24 @@
+.base{
+    margin-left: 30px;
+    width: 280px;
+    padding: 3px;
+    display: flex;
+    border-top: 1px solid rgb(126, 126, 126);;
+ }
+
+ .cont{
+    justify-content: center;
+ }
+
+ .numero{
+     font-family: Helvetica;
+     margin-top: 45px;
+     color: rgb(126, 126, 126);
+ }
+
+ .texto{
+     font-family: Helvetica;
+     margin-left: 30px;
+     color: #c71a1a;
+ }
+
